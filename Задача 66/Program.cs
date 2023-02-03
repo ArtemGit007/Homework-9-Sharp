@@ -3,12 +3,11 @@
 
 // M = 1; N = 15 -> 120
 // M = 4; N = 8. -> 30
+
 Console.WriteLine("Введите число М:");
 int M = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число N:");
 int N = Convert.ToInt32(Console.ReadLine());
-
-
 
 int Sum(int M, int N)
 {
